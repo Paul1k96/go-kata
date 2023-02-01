@@ -5,7 +5,3 @@ import "fmt"
 func feature3() {
 	fmt.Println("feature 3")
 }
-
-func main() {
-	feature2()
-}
